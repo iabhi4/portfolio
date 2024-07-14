@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.fe927caf.css",
+    "main.js": "/portfolio/static/js/main.4e058883.js",
+    "static/js/787.4b24f717.chunk.js": "/portfolio/static/js/787.4b24f717.chunk.js",
+    "static/media/abhinavsingh.jpg": "/portfolio/static/media/abhinavsingh.7c3bd4a26b188edbd1f6.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.fe927caf.css.map": "/portfolio/static/css/main.fe927caf.css.map",
+    "main.4e058883.js.map": "/portfolio/static/js/main.4e058883.js.map",
+    "787.4b24f717.chunk.js.map": "/portfolio/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.4e058883.js"
+  ]
+}
